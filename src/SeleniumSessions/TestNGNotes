@@ -1,0 +1,25 @@
+TesNG -Unit test framework
+--TestNG is also called TDD framework.
+TDD -Test Driven Development
+
+Purpose - Design test cases in a systematic way
+
+-IN TestNG we don't need main method, so create the class without Main() method. TestNg automaticaly excute the class
+
+Advantages:-
+- It generate very good html reports
+-It gives lot of annotation.
+-It priorities the test case or we can called sequence of running the test cases.
+-Dependency feature(We can define dependency on test cases)
+-Grouping the test cases
+-Data Provider (We can run same test case multiple time with different set of data)
+
+TestNG -  it is open source and it is available in JAR file
+
+-This is also called Java unit testing framework.
+-This is only used for Java as Java unit testing framework.
+
+
+How to Install TestNG in Eclipse
+
+Annotation should start with '@' ex:- @BeforeClass. Each annotation is associated with one method.
